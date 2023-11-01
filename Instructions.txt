@@ -7,13 +7,13 @@ System Requirements:
 
 
 Running the Code:
-1. Name your input file (data file) as "data.txt".
+1. Name your input folder (data folder) as "data".
 2. Download the code provided in the file named "vrp.py".
 3. Save the code to a directory of your choice.
-4. Ensure that both "data.txt" and "vrp.py" are located in the same directory.
+4. Ensure that both "data" and "vrp.py" are located in the same directory.
 5. Open your command-line terminal.
 6. Navigate to the directory where you saved "vrp.py" using the `cd` command.
-7. Run the code by executing the following command: python vrp.py data.txt
+7. Run the code by executing the following command: python vrp.py data
 
 
 
