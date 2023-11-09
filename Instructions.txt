@@ -7,7 +7,7 @@ System Requirements:
 
 
 Running the Code:
-1. Name your input folder (data folder) as "data".
+1. Name your input folder as "data".
 2. Download the code provided in the file named "vrp.py".
 3. Save the code to a directory of your choice.
 4. Ensure that both "data" and "vrp.py" are located in the same directory.
