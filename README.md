@@ -1,2 +1,2 @@
-# VIRTO 
+# VehicleRoutingProblemSolver
 Vehicle Routing Problem (VRP)
